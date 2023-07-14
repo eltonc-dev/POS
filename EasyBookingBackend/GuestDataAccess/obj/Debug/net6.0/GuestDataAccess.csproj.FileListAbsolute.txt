@@ -1,0 +1,15 @@
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\bin\Debug\net6.0\GuestDataAccess.deps.json
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\bin\Debug\net6.0\GuestDataAccess.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\bin\Debug\net6.0\GuestDataAccess.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\bin\Debug\net6.0\GuestDomain.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\bin\Debug\net6.0\GuestDomain.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.csproj.AssemblyReference.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.AssemblyInfoInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.AssemblyInfo.cs
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.csproj.CopyComplete
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\refint\GuestDataAccess.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\GuestDataAccess.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\GuestDataAccess\obj\Debug\net6.0\ref\GuestDataAccess.dll

@@ -22,10 +22,7 @@ namespace RegisterDomain
             modelBuilder.Entity<Room>()
                 .HasOne(r => r.RoomType)
                 .WithMany(r => r.Rooms)
-                .HasForeignKey(r => r.RoomTypeId);
-
-
-                             
+                .HasForeignKey(r => r.RoomTypeId);                
         }
     }
 }

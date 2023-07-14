@@ -83,16 +83,6 @@ C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.pdb
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.genruntimeconfig.cache
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\ref\RegisterApi.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.csproj.AssemblyReference.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.AssemblyInfoInputs.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.AssemblyInfo.cs
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.csproj.CoreCompileInputs.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\refint\RegisterApi.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.pdb
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\appsettings.json
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\RegisterApi.exe
@@ -157,6 +147,13 @@ C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\Re
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\RegisterDomain.dll
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\RegisterDataAccess.pdb
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\bin\Debug\net6.0\RegisterDomain.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.csproj.AssemblyReference.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.AssemblyInfoInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.AssemblyInfo.cs
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.csproj.CoreCompileInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\staticwebassets\msbuild.RegisterApi.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\staticwebassets\msbuild.build.RegisterApi.props
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RegisterApi.props
@@ -166,5 +163,8 @@ C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\st
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\scopedcss\bundle\RegisterApi.styles.css
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.csproj.CopyComplete
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\refint\RegisterApi.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.pdb
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\RegisterApi.genruntimeconfig.cache
 C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterApi\obj\Debug\net6.0\ref\RegisterApi.dll

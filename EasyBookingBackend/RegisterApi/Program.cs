@@ -1,6 +1,3 @@
-using AutoMapper;
-using RegisterDataAccess.AutoMapper;
-using RegisterDataAccess.RoomType;
 using RegisterDataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
