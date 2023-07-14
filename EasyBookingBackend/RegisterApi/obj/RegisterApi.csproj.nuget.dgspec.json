@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterApi\\RegisterApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterApi\\RegisterApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterApi\\RegisterApi.csproj",
+        "projectName": "RegisterApi",
+        "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterApi\\RegisterApi.csproj",
+        "packagesPath": "C:\\Users\\6119884\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6119884\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\RegisterDataAccess.csproj": {
+                "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\RegisterDataAccess.csproj"
+              },
+              "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj": {
+                "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\RegisterDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\RegisterDataAccess.csproj",
+        "projectName": "RegisterDataAccess",
+        "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\RegisterDataAccess.csproj",
+        "packagesPath": "C:\\Users\\6119884\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6119884\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj": {
+                "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj",
+        "projectName": "RegisterDomain",
+        "projectPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\RegisterDomain.csproj",
+        "packagesPath": "C:\\Users\\6119884\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6119884\\Projects\\POS\\EasyBookingBackend\\RegisterDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\6119884\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
