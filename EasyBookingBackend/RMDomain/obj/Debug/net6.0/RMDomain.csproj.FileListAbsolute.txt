@@ -1,0 +1,12 @@
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\bin\Debug\net6.0\RMDomain.deps.json
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\bin\Debug\net6.0\RMDomain.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\bin\Debug\net6.0\RMDomain.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.csproj.AssemblyReference.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.AssemblyInfoInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.AssemblyInfo.cs
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.csproj.CoreCompileInputs.cache
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\refint\RMDomain.dll
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\RMDomain.pdb
+C:\Users\6119884\Projects\POS\EasyBookingBackend\RMDomain\obj\Debug\net6.0\ref\RMDomain.dll

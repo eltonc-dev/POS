@@ -12,17 +12,3 @@ C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.pdb
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.genruntimeconfig.cache
 C:\Users\6119884\OneDrive - Thomson Reuters Incorporated\Documents\projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\ref\RegisterDomain.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\bin\Debug\net6.0\RegisterDomain.deps.json
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\bin\Debug\net6.0\RegisterDomain.runtimeconfig.json
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\bin\Debug\net6.0\RegisterDomain.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\bin\Debug\net6.0\RegisterDomain.pdb
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.csproj.AssemblyReference.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.AssemblyInfoInputs.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.AssemblyInfo.cs
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.csproj.CoreCompileInputs.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\refint\RegisterDomain.dll
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.pdb
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\RegisterDomain.genruntimeconfig.cache
-C:\Users\6119884\Projects\POS\EasyBookingBackend\RegisterDomain\obj\Debug\net6.0\ref\RegisterDomain.dll
